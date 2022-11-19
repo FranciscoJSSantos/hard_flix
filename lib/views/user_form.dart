@@ -16,8 +16,10 @@ class UserForm extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      resizeToAvoidBottomInset: false,
       appBar: AppBar(
         title: const Text("Formulário de Filmes"),
+        backgroundColor: Colors.red,
         actions: <Widget>[
           IconButton(
               onPressed: () {
@@ -38,7 +40,7 @@ class UserForm extends StatelessWidget {
         ],
       ),
       body: Padding(
-        padding: const EdgeInsets.all(15),
+        padding: const EdgeInsets.all(10),
         child: Form(
           key: _form,
           child: Column(
