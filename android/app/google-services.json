@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "299048035120",
+    "project_id": "hard-flix",
+    "storage_bucket": "hard-flix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299048035120:android:2e1a08f8b5384a7f319ef5",
+        "android_client_info": {
+          "package_name": "com.example.hard_flix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299048035120-75kgcsh5grj3uketuli4qlp5pfhs55k5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hard_flix",
+            "certificate_hash": "aa844da4da664dc7499f1a586125af141d22c98f"
+          }
+        },
+        {
+          "client_id": "299048035120-mtai8u2tlpj3i5usho6cutjms47d52r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBptOCNF4baK8EMlexfPQbKsFufvfQL5Yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299048035120-mtai8u2tlpj3i5usho6cutjms47d52r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
